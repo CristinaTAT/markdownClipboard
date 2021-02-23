@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![image](https://cristinatat.github.io/images/20210223_165001.png)
 
 You can use the [editor on GitHub](https://github.com/CristinaTAT/myblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
